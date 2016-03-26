@@ -1,0 +1,23 @@
+{
+  "name": "midterm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexlyte/stat515Midterm.git"
+  },
+  "author": "alexanderlyte@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alexlyte/stat515Midterm/issues"
+  },
+  "homepage": "https://github.com/alexlyte/stat515Midterm#readme",
+  "dependencies": {
+    "async-q": "^0.3.1",
+    "promise": "^7.1.1"
+  }
+}
